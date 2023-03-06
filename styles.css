@@ -1,20 +1,14 @@
-body{
-    background-color: rgb(189, 189, 171);
-}
-
 *{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-
+body{
+    background-color: rgb(189, 189, 171);
+}
 
 header{
-    
-    /* border: solid black 5px; */
     background-color: antiquewhite;
     padding: 30px;
-    
-    
 }
 
 nav{
@@ -53,7 +47,7 @@ li{
     
 }
 button{
-    /* width: fit-content; */
+    width: fit-content;
     /* height: min-content; */
     border-radius: 10px;
     background-color: rgb(141, 223, 141);
@@ -62,3 +56,4 @@ button{
 button:hover{
 background-color: rgb(94, 181, 94);;
 }
+
